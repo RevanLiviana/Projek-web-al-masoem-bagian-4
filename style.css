@@ -1,0 +1,136 @@
+.dekstop {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1920px;
+  min-height: 2904px;
+  position: relative;
+}
+
+.dekstop .rectangle {
+  position: absolute;
+  top: 2108px;
+  right: 0;
+  width: 1955px;
+  height: 796px;
+  background-color: #696766;
+}
+
+.dekstop .text-wrapper {
+  position: absolute;
+  top: 2201px;
+  left: 135px;
+  width: 660px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .jl-raya-cipacing-no {
+  position: absolute;
+  top: 2351px;
+  left: 135px;
+  width: 639px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .div {
+  position: absolute;
+  top: 2200px;
+  left: 1098px;
+  width: 533px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .informasi-fakultas {
+  position: absolute;
+  top: 2351px;
+  left: 1098px;
+  width: 573px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/* make links inside informasi-fakultas white and remove underline */
+.dekstop .informasi-fakultas a {
+  color: inherit; /* use the existing white color */
+  text-decoration: none;
+}
+
+.dekstop .informasi-fakultas a:hover {
+  text-decoration: underline;
+}
+
+.dekstop .p {
+  position: absolute;
+  top: 2840px;
+  left: 702px;
+  width: 553px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .line {
+  position: absolute;
+  top: 2800px;
+  left: 0;
+  width: 1920px;
+  height: 5px;
+  object-fit: cover;
+}
+
+.dekstop .img {
+  position: absolute;
+  top: 211px;
+  left: 0;
+  width: 1920px;
+  height: 192px;
+  object-fit: cover;
+}
+
+.dekstop .text-wrapper-2 {
+  position: absolute;
+  top: 276px;
+  left: 111px;
+  width: 953px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .program-studi-teknik {
+  position: absolute;
+  top: 591px;
+  left: 117px;
+  width: 1450px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
